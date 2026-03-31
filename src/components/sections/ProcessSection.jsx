@@ -4,8 +4,8 @@ function ProcessSection() {
   return (
     <section className="section process">
       <div className="section-heading">
-        <p className="section-kicker">Narration du site</p>
-        <h2>Une progression simple du premier regard jusqu'au contact.</h2>
+        <p className="section-kicker">Parcours du site</p>
+        <h2>Une presentation directe de mon profil, de mes competences et de mes projets.</h2>
       </div>
 
       <div className="timeline">

@@ -53,10 +53,10 @@ export const capabilities = [
 ];
 
 export const processSteps = [
-  "Comprendre la cible, le ton et l'objectif du site",
-  "Poser une direction visuelle claire au lieu d'un template generique",
-  "Construire une structure simple: hero, preuve, projets, contact",
-  "Soigner la lisibilite, la vitesse et la version mobile",
+  "Presenter rapidement mon profil et le type d'alternance que je recherche",
+  "Mettre en avant mes competences techniques de maniere claire et lisible",
+  "Montrer une selection de projets representatifs de mon parcours",
+  "Faciliter la prise de contact avec mes liens professionnels et mes coordonnees",
 ];
 
 export const heroMetrics = [
